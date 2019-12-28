@@ -23,7 +23,13 @@ public class FizzBuzzTest {
                 {1, "1"},
                 {3, "Fizz"},
                 {5, "Buzz"},
-                {15, "FizzBuzz"}
+                {7, "Whizz"},
+                {15, "FizzBuzz"},
+                {21, "FizzBuzz"},
+                {35, "BuzzWhizz"},
+                {105, "FizzBuzzWhizz"}
+
+
         });
     }
 
